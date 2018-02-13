@@ -1,0 +1,751 @@
+{
+  "subject_id": "b18064236",
+  "bib_statements": [
+    {
+      "bn": null,
+      "id": "carriertypes:vd",
+      "la": "videodisc",
+      "li": null,
+      "pr": "bf:carrier"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "4 3/4 in.",
+      "pr": "bf:dimensions"
+    },
+    {
+      "bn": null,
+      "id": "urn:biblevel:m",
+      "la": "monograph/item",
+      "li": null,
+      "pr": "bf:issuance"
+    },
+    {
+      "bn": null,
+      "id": "mediatypes:v",
+      "la": "video",
+      "li": null,
+      "pr": "bf:media"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "2008",
+      "pr": "dbo:startDate"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Vaill, Amanda.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Kinberg, Judy.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Kinberg, Judy.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Rifkin, Ron.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Robbins, Jerome.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Hurwitz, Tom.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Bernstein, Molly.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Bhargava, Girish.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "WNET (Television station : New York, N.Y.)",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "2008",
+      "pr": "dc:date"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Choreographers -- United States -- Biography.",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Musical theater producers and directors -- United States -- Biography.",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Ballet -- Production and direction -- United States.",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Dance -- United States -- History -- 20th century.",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": "Varying Form of Title",
+      "li": "Something to dance about",
+      "pr": "dcterms:alternative"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "2008",
+      "pr": "dcterms:created"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": "Summary, Etc.",
+      "li": "Examines the life of the controversial master of the Broadway musical and ballet choreographer Jerome Robbins.",
+      "pr": "dcterms:description"
+    },
+    {
+      "bn": null,
+      "id": "urn:bnum:18064236",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "bn": null,
+      "id": "lang:eng",
+      "la": "English",
+      "li": null,
+      "pr": "dcterms:language"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Jerome Rabinowitz -- Life-changing revelations -- Camp Tamiment -- Ballet Theatre -- Fancy free -- On the town -- The playful side and the darker side -- Love and loss -- Autobiographical material -- Broadway's rising star -- Balanchine and the New York City Ballet -- The king and I -- The House Un-American Activities Committee -- Robbins' muse, Tanaquil Le Clercq -- Peter Pan -- West side story -- Ballets U.S.A. -- Gypsy -- Challenges and fixes -- Fiddler on the roof -- Les noces -- Dances at a gathering -- The Goldberg variations -- Watermill -- Robbins and Balanchine -- Dybbuk -- Other dances -- Glass pieces and Antique epigraphs -- In memory of... -- Jerome Robbins' Broadway -- Dancing until the end.",
+      "pr": "dcterms:tableOfContents"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Jerome Robbins [videorecording] : something to dance about",
+      "pr": "dcterms:title"
+    },
+    {
+      "bn": null,
+      "id": "resourcetypes:mov",
+      "la": "Moving image",
+      "li": null,
+      "pr": "dcterms:type"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "1 videodisc (NTSC) (117 min.) : sd., col. with b&w sequences ;",
+      "pr": "nypl:extent"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Documentaries and factual works.",
+      "pr": "nypl:genreForm"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "*MGZIDVD 5-3013",
+      "pr": "nypl:shelfMark"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Jerome Robbins [videorecording] : something to dance about / written by Amanda Vaill ; produced & directed by Judy Kinberg ; produced by Thirteen/WNET American Masters.",
+      "pr": "nypl:titleDisplay"
+    },
+    {
+      "bn": null,
+      "id": "nypl:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdfs:type"
+    },
+    {
+      "bn": null,
+      "id": "nypl:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "General Note",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "Dolby 2.0; anamorphic widescreen format.",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdfs:type"
+        }
+      ],
+      "id": "b18064236#1.0000",
+      "la": null,
+      "li": null,
+      "pr": "skos:note"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "General Note",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "Features excerpts from his personal journals, archival performance footage, and never-before-seen rehearsal recordings, as well as interviews with Robbins himself and over forty others.",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdfs:type"
+        }
+      ],
+      "id": "b18064236#1.0001",
+      "la": null,
+      "li": null,
+      "pr": "skos:note"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "General Note",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "Interviewees include: Stephen Sondheim, Eliot Feld, Chita Rivera, Jacques D'Amboise, Sono Osato, Nanette Fabry, Deborah Jowitt, Ruthanna Boris, Donald Saddler, Robert Gottlieb, Helen Gallagher, Arthur Laurents, Stephen Whitfield, Sondra Lee, James Mitchell, Rose Tobias Shaw, Peter Martins, Mikhail Baryshnikov, Yuriko, Rita Moreno, Floria Lasky, Madeline Lee Gilford, Barbara Horgan, Frank Rich, Carol Lawrence, Tony Mordente, Grover Dale, Gerald Freedman, Lane Bradbury, Austin Pendleton, Tony Walton, Joseph Stein, Sheldon Harnick, Barry Primus, Patricia McBride, Violetta Verdy, Suzanne Farrell, Bart Cook, Maria Calegari, and Jerry Bock.",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdfs:type"
+        }
+      ],
+      "id": "b18064236#1.0002",
+      "la": null,
+      "li": null,
+      "pr": "skos:note"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "General Note",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "Brief dance excerpts include: Afternoon of a faun parody (Imogene Coca, William Archibald), Goyescas (Jerome Robbins, Lucia Chase), Romeo and Juliet (Jerome Robbins), Yo bailé con Don Porfirio (Jerome Robbins first work preserved on film), Fancy free (Joseph Duell, Kipling Houston, Jean-Pierre Frohlich/Stephanie Saland and Joseph Duell), Interplay (Ballets U.S.A.), Look ma I'm dancin' (Harold Lang, Nancy Walker), High button shoes (Helen Gallagher, Donald Saddler), Symphony in C, The cage (Heather Watts, Bart Cook), Afternoon of a faun (Jacques D'Amboise, Taniquil Le Clercq), There once was a man, from Pajama Game (John Raitt, Janis Paige), Peter Pan (Mary Martin, Sondra Lee, Cyril Ritchard), sections of the West side story movie, Cool from West side story on Broadway, N.Y. export: opus jazz (Ed Sullivan show), Gypsy movie (strip number with Linda Hart, Anna McNeely, [Christine Ebersole]), Gypsy Broadway performance (Ethel Merman), Bottle dance from Fiddler on the roof movie, Les noces (Royal Swedish Ballet), Dances at a gathering (Patricia McBride and Anthony Blum/Stephanie Saland and Ib Andersen/Violette Verdy), Goldberg variations (Damian Woetzel, Darci Kistler), Two beggers from Pulcinella (Jerome Robbins, George Balanchine), In G major (Peter Martins, Suzanne Farrell), Dybbuk (Patricia McBride, Helgi Tomasson), Other dances (Mikhail Baryshnikov, Natalia Makarova), Glass pieces, Antique epigraphs (Maria Calegari), In memory of... (Suzanne Farrell, Adam Lüders), The poppa piece rehearsal, and A suite of dances (rehearsal and performance, Mikhail Baryshnikov).",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdfs:type"
+        }
+      ],
+      "id": "b18064236#1.0003",
+      "la": null,
+      "li": null,
+      "pr": "skos:note"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "Scale Note for Graphic Material",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "Director of photography, Tom Hurwitz ; editors, Molly Bernstein, Girish Bhargava ; self portraits and journal art work by Jerome Robbins.",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdfs:type"
+        }
+      ],
+      "id": "b18064236#1.0004",
+      "la": null,
+      "li": null,
+      "pr": "skos:note"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "Date/Time and Place of an Event Note",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "Originally broadcast on PBS on Feb. 18, 2009 as an episode of the television series American masters.",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdfs:type"
+        }
+      ],
+      "id": "b18064236#1.0005",
+      "la": null,
+      "li": null,
+      "pr": "skos:note"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "Funding Information Note",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "DVD.",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdfs:type"
+        }
+      ],
+      "id": "b18064236#1.0006",
+      "la": null,
+      "li": null,
+      "pr": "skos:note"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "Immediate Source of Acquisition Note",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "American Masters, Thirteen/WNET.",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdfs:type"
+        }
+      ],
+      "id": "b18064236#1.0007",
+      "la": null,
+      "li": null,
+      "pr": "skos:note"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "Immediate Source of Acquisition Note",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "American Masters, Thirteen/WNET.",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdfs:type"
+        }
+      ],
+      "id": "b18064236#1.0008",
+      "la": null,
+      "li": null,
+      "pr": "skos:note"
+    }
+  ],
+  "item_statements": [
+    {
+      "s": "i24119356",
+      "bn": null,
+      "id": "status:a",
+      "la": "Available",
+      "li": null,
+      "pr": "bf:status"
+    },
+    {
+      "s": "i24119356",
+      "bn": null,
+      "id": "urn:barcode:33433077412629",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "s": "i24119356",
+      "bn": null,
+      "id": "accessMessage:4",
+      "la": "RESTRICTED USE",
+      "li": null,
+      "pr": "nypl:accessMessage"
+    },
+    {
+      "s": "i24119356",
+      "bn": null,
+      "id": "urn:bnum:b18064236",
+      "la": null,
+      "li": null,
+      "pr": "nypl:bnum"
+    },
+    {
+      "s": "i24119356",
+      "bn": null,
+      "id": "catalogItemType:24",
+      "la": "archival video recording",
+      "li": null,
+      "pr": "nypl:catalogItemType"
+    },
+    {
+      "s": "i24119356",
+      "bn": null,
+      "id": "loc:myr",
+      "la": "Performing Arts Research Collections",
+      "li": null,
+      "pr": "nypl:deliveryLocation"
+    },
+    {
+      "s": "i24119356",
+      "bn": null,
+      "id": "loc:rcpd9",
+      "la": "OFFSITE - Performing Arts--Offsite--Restricted Use",
+      "li": null,
+      "pr": "nypl:holdingLocation"
+    },
+    {
+      "s": "i24119356",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:requestable"
+    },
+    {
+      "s": "i24119356",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "*MGZIDVD 5-3013 P.M.",
+      "pr": "nypl:shelfMark"
+    },
+    {
+      "s": "i24119356",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "true",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "s": "i24119356",
+      "bn": null,
+      "id": "bf:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    },
+    {
+      "s": "i24119355",
+      "bn": null,
+      "id": "status:a",
+      "la": "Available",
+      "li": null,
+      "pr": "bf:status"
+    },
+    {
+      "s": "i24119355",
+      "bn": null,
+      "id": "urn:barcode:33433077412637",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "s": "i24119355",
+      "bn": null,
+      "id": "accessMessage:4",
+      "la": "RESTRICTED USE",
+      "li": null,
+      "pr": "nypl:accessMessage"
+    },
+    {
+      "s": "i24119355",
+      "bn": null,
+      "id": "urn:bnum:b18064236",
+      "la": null,
+      "li": null,
+      "pr": "nypl:bnum"
+    },
+    {
+      "s": "i24119355",
+      "bn": null,
+      "id": "catalogItemType:24",
+      "la": "archival video recording",
+      "li": null,
+      "pr": "nypl:catalogItemType"
+    },
+    {
+      "s": "i24119355",
+      "bn": null,
+      "id": "loc:myr",
+      "la": "Performing Arts Research Collections",
+      "li": null,
+      "pr": "nypl:deliveryLocation"
+    },
+    {
+      "s": "i24119355",
+      "bn": null,
+      "id": "loc:rcpd9",
+      "la": "OFFSITE - Performing Arts--Offsite--Restricted Use",
+      "li": null,
+      "pr": "nypl:holdingLocation"
+    },
+    {
+      "s": "i24119355",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:requestable"
+    },
+    {
+      "s": "i24119355",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "*MGZIDVD 5-3013 A.O.",
+      "pr": "nypl:shelfMark"
+    },
+    {
+      "s": "i24119355",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "true",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "s": "i24119355",
+      "bn": null,
+      "id": "bf:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    },
+    {
+      "s": "i24119354",
+      "bn": null,
+      "id": "status:a",
+      "la": "Available ",
+      "li": null,
+      "pr": "bf:status"
+    },
+    {
+      "s": "i24119354",
+      "bn": null,
+      "id": "urn:barcode:33433077412611",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "s": "i24119354",
+      "bn": null,
+      "id": "accessMessage:1",
+      "la": "USE IN LIBRARY",
+      "li": null,
+      "pr": "nypl:accessMessage"
+    },
+    {
+      "s": "i24119354",
+      "bn": null,
+      "id": "urn:bnum:b18064236",
+      "la": null,
+      "li": null,
+      "pr": "nypl:bnum"
+    },
+    {
+      "s": "i24119354",
+      "bn": null,
+      "id": "catalogItemType:24",
+      "la": "archival video recording",
+      "li": null,
+      "pr": "nypl:catalogItemType"
+    },
+    {
+      "s": "i24119354",
+      "bn": null,
+      "id": "loc:myr",
+      "la": "Performing Arts Research Collections",
+      "li": null,
+      "pr": "nypl:deliveryLocation"
+    },
+    {
+      "s": "i24119354",
+      "bn": null,
+      "id": "loc:myd22",
+      "la": "Performing Arts Research Collections - Dance",
+      "li": null,
+      "pr": "nypl:holdingLocation"
+    },
+    {
+      "s": "i24119354",
+      "bn": null,
+      "id": "orgs:1121",
+      "la": "Jerome Robbins Dance Division",
+      "li": null,
+      "pr": "nypl:owner"
+    },
+    {
+      "s": "i24119354",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:requestable"
+    },
+    {
+      "s": "i24119354",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "*MGZIDVD 5-3013",
+      "pr": "nypl:shelfMark"
+    },
+    {
+      "s": "i24119354",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "s": "i24119354",
+      "bn": null,
+      "id": "bf:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    }
+  ]
+}

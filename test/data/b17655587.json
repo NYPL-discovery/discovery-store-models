@@ -1,0 +1,489 @@
+{
+  "subject_id": "b17655587",
+  "bib_statements": [
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "16mm.",
+      "pr": "bf:dimensions"
+    },
+    {
+      "bn": null,
+      "id": "urn:biblevel:m",
+      "la": "monograph/item",
+      "li": null,
+      "pr": "bf:issuance"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "1964",
+      "pr": "dbo:dateStart"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "1964",
+      "pr": "dbo:startDate"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Gurian, Andy.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "1964",
+      "pr": "dc:date"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Films by teenagers.",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Comedy films.",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "1964",
+      "pr": "dcterms:created"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": "Summary, Etc.",
+      "li": "A comic short on patriotism and protest, with sober undertones. Made by Andy Gurian of the Mosholu - Montefiore Community Center.",
+      "pr": "dcterms:description"
+    },
+    {
+      "bn": null,
+      "id": "urn:bnum:17655587",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "bn": null,
+      "id": "lang:eng",
+      "la": "English",
+      "li": null,
+      "pr": "dcterms:language"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "That rotten tea bag [motion picture]",
+      "pr": "dcterms:title"
+    },
+    {
+      "bn": null,
+      "id": "resourcetypes:mov",
+      "la": "Moving image",
+      "li": null,
+      "pr": "dcterms:type"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "1 film reel (3 min.) : sd. b&w. ;",
+      "pr": "nypl:extent"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "New York :",
+      "pr": "nypl:placeOfPublication"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Children's Cultural Foundation,",
+      "pr": "nypl:role-publisher"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "That rotten tea bag [motion picture] / Andy Gurian.",
+      "pr": "nypl:titleDisplay"
+    },
+    {
+      "bn": null,
+      "id": "nypl:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdfs:type"
+    },
+    {
+      "bn": null,
+      "id": "nypl:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": "Creation/Production Credits Note",
+      "li": "Director, Andy Gurian.",
+      "pr": "skos:note"
+    }
+  ],
+  "item_statements": [
+    {
+      "s": "i17906175",
+      "bn": null,
+      "id": "carriertypes:mr",
+      "la": "film reel",
+      "li": null,
+      "pr": "bf:carrier"
+    },
+    {
+      "s": "i17906175",
+      "bn": null,
+      "id": "mediatypes:m",
+      "la": null,
+      "li": null,
+      "pr": "bf:media"
+    },
+    {
+      "s": "i17906175",
+      "bn": null,
+      "id": "status:a",
+      "la": "Available ",
+      "li": null,
+      "pr": "bf:status"
+    },
+    {
+      "s": "i17906175",
+      "bn": null,
+      "id": "urn:barcode:33333205133792",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "s": "i17906175",
+      "bn": null,
+      "id": "accessMessage:a",
+      "la": "By appointment only",
+      "li": null,
+      "pr": "nypl:accessMessage"
+    },
+    {
+      "s": "i17906175",
+      "bn": null,
+      "id": "urn:bnum:b17655587",
+      "la": null,
+      "li": null,
+      "pr": "nypl:bnum"
+    },
+    {
+      "s": "i17906175",
+      "bn": null,
+      "id": "catalogItemType:132",
+      "la": "RFVC - FILM",
+      "li": null,
+      "pr": "nypl:catalogItemType"
+    },
+    {
+      "s": "i17906175",
+      "bn": null,
+      "id": "loc:myarv",
+      "la": "Reserve Film and Video Adult Fiction",
+      "li": null,
+      "pr": "nypl:holdingLocation"
+    },
+    {
+      "s": "i17906175",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:requestable"
+    },
+    {
+      "s": "i17906175",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "M16 238 T",
+      "pr": "nypl:shelfMark"
+    },
+    {
+      "s": "i17906175",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "s": "i17906175",
+      "bn": null,
+      "id": "bf:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": "carriertypes:mr",
+      "la": "film reel",
+      "li": null,
+      "pr": "bf:carrier"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": "mediatypes:m",
+      "la": null,
+      "li": null,
+      "pr": "bf:media"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": "status:a",
+      "la": "Available ",
+      "li": null,
+      "pr": "bf:status"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": "urn:barcode:33333021680935",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": "accessMessage:a",
+      "la": "By appointment only",
+      "li": null,
+      "pr": "nypl:accessMessage"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": "urn:bnum:b17655587",
+      "la": null,
+      "li": null,
+      "pr": "nypl:bnum"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": "catalogItemType:132",
+      "la": "RFVC - FILM",
+      "li": null,
+      "pr": "nypl:catalogItemType"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": "loc:myjrv",
+      "la": "Reserve Film and Video Children's Fiction",
+      "li": null,
+      "pr": "nypl:holdingLocation"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": "orgs:1102",
+      "la": "Carl H. Pforzheimer Collection of Shelley and His Circle",
+      "li": null,
+      "pr": "nypl:owner"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:requestable"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "|pY|fM16|a238|cT",
+      "pr": "nypl:shelfMark"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "s": "i17906176",
+      "bn": null,
+      "id": "bf:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    },
+    {
+      "s": "i17906172",
+      "bn": null,
+      "id": "urn:bnum:b17655587",
+      "la": null,
+      "li": null,
+      "pr": "nypl:bnum"
+    },
+    {
+      "s": "i17906172",
+      "bn": null,
+      "id": "catalogItemType:133",
+      "la": "RFVC - FILM PRESERVATION",
+      "li": null,
+      "pr": "nypl:catalogItemType"
+    },
+    {
+      "s": "i17906172",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "true",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "s": "i17906172",
+      "bn": null,
+      "id": "bf:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    },
+    {
+      "s": "i17906174",
+      "bn": null,
+      "id": "urn:bnum:b17655587",
+      "la": null,
+      "li": null,
+      "pr": "nypl:bnum"
+    },
+    {
+      "s": "i17906174",
+      "bn": null,
+      "id": "catalogItemType:133",
+      "la": "RFVC - FILM PRESERVATION",
+      "li": null,
+      "pr": "nypl:catalogItemType"
+    },
+    {
+      "s": "i17906174",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "true",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "s": "i17906174",
+      "bn": null,
+      "id": "bf:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    },
+    {
+      "s": "i17906173",
+      "bn": null,
+      "id": "urn:bnum:b17655587",
+      "la": null,
+      "li": null,
+      "pr": "nypl:bnum"
+    },
+    {
+      "s": "i17906173",
+      "bn": null,
+      "id": "catalogItemType:133",
+      "la": "RFVC - FILM PRESERVATION",
+      "li": null,
+      "pr": "nypl:catalogItemType"
+    },
+    {
+      "s": "i17906173",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "true",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "s": "i17906173",
+      "bn": null,
+      "id": "bf:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    },
+    {
+      "s": "i17906171",
+      "bn": null,
+      "id": "urn:bnum:b17655587",
+      "la": null,
+      "li": null,
+      "pr": "nypl:bnum"
+    },
+    {
+      "s": "i17906171",
+      "bn": null,
+      "id": "catalogItemType:133",
+      "la": "RFVC - FILM PRESERVATION",
+      "li": null,
+      "pr": "nypl:catalogItemType"
+    },
+    {
+      "s": "i17906171",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "true",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "s": "i17906171",
+      "bn": null,
+      "id": "bf:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    }
+  ]
+}
