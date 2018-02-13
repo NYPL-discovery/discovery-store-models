@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NYPL/discovery-store-models.git"
+    "url": "git+https://github.com/NYPL-discovery/discovery-store-models.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NYPL/discovery-store-models/issues"
+    "url": "https://github.com/NYPL-discovery/discovery-store-models/issues"
   },
-  "homepage": "https://github.com/NYPL/discovery-store-models#readme",
+  "homepage": "https://github.com/NYPL-discovery/discovery-store-models#readme",
   "dependencies": {
     "@nypl/nypl-core-objects": "^1.3.0",
     "pg-promise": "^7.4.0",
