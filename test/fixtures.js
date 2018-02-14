@@ -2,7 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const sinon = require('sinon')
 
-const Bib = require('../lib/models/bib')
+const Bib = require('../index').Bib
 
 function bibFixturePath (id) {
   return path.join(__dirname, `./data/${id}.json`)

@@ -1,6 +1,6 @@
 const fixtures = require('./fixtures')
 
-const Bib = require('../lib/models/bib')
+const Bib = require('../index').Bib
 
 describe('Bib model', function () {
   before(fixtures.enable)

@@ -1,5 +1,5 @@
-const Item = require('./lib/models/Item')
-const Bib = require('./lib/models/Bib')
+const Item = require('./lib/models/item')
+const Bib = require('./lib/models/bib')
 const db = require('./lib/db')
 const logger = require('./lib/logger')
 
