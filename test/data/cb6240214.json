@@ -1,0 +1,312 @@
+{
+  "subject_id": "cb6240214",
+  "bib_statements": [
+    {
+      "bn": null,
+      "id": "carriertypes:nc",
+      "la": "volume",
+      "li": null,
+      "pr": "bf:carrier"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "24 cm.",
+      "pr": "bf:dimensions"
+    },
+    {
+      "bn": null,
+      "id": "urn:biblevel:m",
+      "la": "monograph/item",
+      "li": null,
+      "pr": "bf:issuance"
+    },
+    {
+      "bn": null,
+      "id": "mediatypes:n",
+      "la": "unmediated",
+      "li": null,
+      "pr": "bf:media"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "2007",
+      "pr": "dbo:startDate"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "880-07 Zhongguo ren min jie fang jun jun shi ke xue yuan. Zhan zheng li lun he zhan lüe yan jiu bu.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "880-08 Zhongguo Sunzi bing fa yan jiu hui.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "880-01 International Symposium on Sun Tzu's Art of War (7th : 2006 : Hangzhou, China)",
+      "pr": "dc:creator"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "2007",
+      "pr": "dc:date"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Sunzi, -- active 6th century B.C. -- Congresses.",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": "Varying Form of Title",
+      "li": "Sun tzu's art of war and modern strategy",
+      "pr": "dcterms:alternative"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": "Varying Form of Title",
+      "li": "Di qi jie Sunzi bing fa guo ji yan tao hui lun wen ji",
+      "pr": "dcterms:alternative"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "2007",
+      "pr": "dcterms:created"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": "Summary, Etc.",
+      "li": "这次孙子兵法国际研讨会首次将孙子思想与大国关系和中国和平发展主题相结合,在三天时间里,30多个国家和海峡两岸,香港地区的近300名专家学者,将围绕\"大国关系与国家安全\",\"大国的国防政策\",\"军事互信和军事合作\",\"台海形势及其走向\",\"孙子兵法与世界军事文化遗产\"等…",
+      "pr": "dcterms:description"
+    },
+    {
+      "bn": null,
+      "id": "urn:bnum:6240214",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "bn": null,
+      "id": "urn:isbn:9787802370715",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "bn": null,
+      "id": "urn:isbn:780237071X",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "bn": null,
+      "id": "urn:lccn:  2008402889",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "bn": null,
+      "id": "lang:chi",
+      "la": "Chinese",
+      "li": null,
+      "pr": "dcterms:language"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "880-02 Sunzi bing fa yu xian dai zhan lüe : di qi jie Sunzi bing fa guo ji yan tao hui lun wen ji = Sun tzu's art of war and modern strategy : theses colletion of the 7th international symposium on Sun tzu's art of war / jun shi ke xue yuan zhan zheng li lun he zhan lüe yan jiu bu, Zhongguo Sunzi bing fa yan jiu hui bian.",
+      "pr": "dcterms:title"
+    },
+    {
+      "bn": null,
+      "id": "resourcetypes:txt",
+      "la": "Text",
+      "li": null,
+      "pr": "dcterms:type"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "7, 739 p. : col. ill. ;",
+      "pr": "nypl:extent"
+    },
+    {
+      "bn": null,
+      "id": "genre:b",
+      "la": "Bibliographies",
+      "li": null,
+      "pr": "nypl:genre"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "U101.S96 S7922 2006",
+      "pr": "nypl:lccClassification"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Beijing Shi :",
+      "pr": "nypl:placeOfPublication"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Jun shi ke xue chu ban she,",
+      "pr": "nypl:role-publisher"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Sunzi bing fa yu xian dai zhan lüe : di qi jie Sunzi bing fa guo ji yan tao hui lun wen ji = Sun tzu's art of war and modern strategy : theses colletion of the 7th international symposium on Sun tzu's art of war / jun shi ke xue yuan zhan zheng li lun he zhan lüe yan jiu bu, Zhongguo Sunzi bing fa yan jiu hui bian.",
+      "pr": "nypl:titleDisplay"
+    },
+    {
+      "bn": null,
+      "id": "nypl:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdfs:type"
+    },
+    {
+      "bn": null,
+      "id": "nypl:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": "Bibliography, Etc. Note",
+      "li": "Includes bibliographical references.",
+      "pr": "skos:note"
+    }
+  ],
+  "item_statements": [
+    {
+      "s": "ci7423916",
+      "bn": null,
+      "id": "status:a",
+      "la": "Available ",
+      "li": null,
+      "pr": "bf:status"
+    },
+    {
+      "s": "ci7423916",
+      "bn": null,
+      "id": "urn:barcode:CU13833405",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "s": "ci7423916",
+      "bn": null,
+      "id": "accessMessage:1",
+      "la": "Use in library",
+      "li": null,
+      "pr": "nypl:accessMessage"
+    },
+    {
+      "s": "ci7423916",
+      "bn": null,
+      "id": "urn:bnum:cb6240214",
+      "la": null,
+      "li": null,
+      "pr": "nypl:bnum"
+    },
+    {
+      "s": "ci7423916",
+      "bn": null,
+      "id": "catalogItemType:1",
+      "la": "non-circ",
+      "li": null,
+      "pr": "nypl:catalogItemType"
+    },
+    {
+      "s": "ci7423916",
+      "bn": null,
+      "id": "orgs:0002",
+      "la": "Columbia University Libraries",
+      "li": null,
+      "pr": "nypl:owner"
+    },
+    {
+      "s": "ci7423916",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "true",
+      "pr": "nypl:requestable"
+    },
+    {
+      "s": "ci7423916",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "U101.S96 S7922 2006",
+      "pr": "nypl:shelfMark"
+    },
+    {
+      "s": "ci7423916",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "s": "ci7423916",
+      "bn": null,
+      "id": "bf:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdfs:type"
+    },
+    {
+      "s": "ci7423916",
+      "bn": null,
+      "id": "bf:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdf:type"
+    }
+  ]
+}

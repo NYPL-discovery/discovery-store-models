@@ -66,3 +66,21 @@ This currently satisfies the API needs of the DiscoveryStoreUpdater and Discover
  * `db.upsertStatements(type = 'resource', statements = [])`
  * `db.deleteStaleStatements(type = 'resource', statements = [], subtype = 'bib')`
 
+
+## Testing
+
+```
+npm test
+```
+
+A script is provided for adding/updating test fixtures.
+
+This will update all fixtures against configured db:
+```
+node scripts/update-test-fixtures --profile [profile] --envfile [creds file]
+```
+
+Use `--id` to update a single bib. For example, this updates fixture for 'b10781594' using qa creds
+```
+node scripts/update-test-fixtures --id b10781594 --profile nypl-sandbox --envfile config/qa.env
+```
