@@ -6,280 +6,372 @@
       "id": "carriertypes:nc",
       "la": "volume",
       "li": null,
-      "pr": "bf:carrier"
+      "pr": "bf:carrier",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "24 cm.",
-      "pr": "bf:dimensions"
+      "pr": "bf:dimensions",
+      "ty": null
     },
     {
       "bn": null,
       "id": "urn:biblevel:m",
       "la": "monograph/item",
       "li": null,
-      "pr": "bf:issuance"
+      "pr": "bf:issuance",
+      "ty": null
     },
     {
       "bn": null,
       "id": "mediatypes:n",
       "la": "unmediated",
       "li": null,
-      "pr": "bf:media"
+      "pr": "bf:media",
+      "ty": null
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "Note",
+          "pr": "bf:noteType",
+          "ty": null
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "Includes index.",
+          "pr": "rdfs:label",
+          "ty": null
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdf:type",
+          "ty": null
+        }
+      ],
+      "id": "b10781594#1.0000",
+      "la": null,
+      "li": null,
+      "pr": "bf:note",
+      "ty": null
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "Bibliography",
+          "pr": "bf:noteType",
+          "ty": null
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "Bibliography: p. 139-161.",
+          "pr": "rdfs:label",
+          "ty": null
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdf:type",
+          "ty": null
+        }
+      ],
+      "id": "b10781594#1.0001",
+      "la": null,
+      "li": null,
+      "pr": "bf:note",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "Studies in the regulation of economic activity",
-      "pr": "bf:seriesStatement"
+      "pr": "bf:seriesStatement",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "1981",
-      "pr": "dbo:dateStart"
+      "pr": "dbo:dateStart",
+      "ty": "xsd:integer"
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "1981",
-      "pr": "dbo:startDate"
+      "pr": "dbo:startDate",
+      "ty": "xsd:integer"
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "Lave, Lester B.",
-      "pr": "dc:contributor"
-    },
-    {
-      "bn": null,
-      "id": null,
-      "la": null,
-      "li": "Lave, Lester B.",
-      "pr": "dc:creator"
+      "pr": "dc:creator",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "1981",
-      "pr": "dc:date"
+      "pr": "dc:date",
+      "ty": "xsd:integer"
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "Industrial policy -- United States.",
-      "pr": "dc:subject"
+      "pr": "dc:subject",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "Trade regulation -- United States.",
-      "pr": "dc:subject"
+      "pr": "dc:subject",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "Consumer protection -- United States.",
-      "pr": "dc:subject"
+      "pr": "dc:subject",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "Environmental policy -- United States.",
-      "pr": "dc:subject"
+      "pr": "dc:subject",
+      "ty": null
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Social regulation.",
+      "pr": "dcterms:alternative",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "1981",
-      "pr": "dcterms:created"
+      "pr": "dcterms:created",
+      "ty": "xsd:integer"
     },
     {
       "bn": null,
-      "id": "urn:bnum:10781594",
+      "id": "10781594",
       "la": null,
       "li": null,
-      "pr": "dcterms:identifier"
+      "pr": "dcterms:identifier",
+      "ty": "nypl:Bnumber"
     },
     {
       "bn": null,
-      "id": "urn:isbn:0815751621",
+      "id": "0815751621",
       "la": null,
       "li": null,
-      "pr": "dcterms:identifier"
+      "pr": "dcterms:identifier",
+      "ty": "bf:Isbn"
     },
     {
       "bn": null,
-      "id": "urn:lccn:81007685",
+      "id": "81007685",
       "la": null,
       "li": null,
-      "pr": "dcterms:identifier"
+      "pr": "dcterms:identifier",
+      "ty": "bf:Lccn"
     },
     {
       "bn": null,
       "id": "urn:oclc:300553178",
       "la": null,
       "li": null,
-      "pr": "dcterms:identifier"
+      "pr": "dcterms:identifier",
+      "ty": null
     },
     {
       "bn": null,
       "id": "urn:lcc:HD3616.U47",
       "la": null,
       "li": null,
-      "pr": "dcterms:identifier"
+      "pr": "dcterms:identifier",
+      "ty": null
     },
     {
       "bn": null,
       "id": "urn:lccCoarse:HD3611-4730.9",
       "la": null,
       "li": null,
-      "pr": "dcterms:identifier"
+      "pr": "dcterms:identifier",
+      "ty": null
     },
     {
       "bn": null,
       "id": "urn:hathi:006230462",
       "la": null,
       "li": null,
-      "pr": "dcterms:identifier"
+      "pr": "dcterms:identifier",
+      "ty": null
     },
     {
       "bn": null,
       "id": "lang:eng",
       "la": "English",
       "li": null,
-      "pr": "dcterms:language"
+      "pr": "dcterms:language",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "The strategy of social regulation : decision frameworks for policy",
-      "pr": "dcterms:title"
+      "pr": "dcterms:title",
+      "ty": null
     },
     {
       "bn": null,
       "id": "resourcetypes:txt",
       "la": "Text",
       "li": null,
-      "pr": "dcterms:type"
+      "pr": "dcterms:type",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "{\"volumeId\":\"mdp.49015001115964\",\"access\":\"deny\",\"rights\":\"ic\",\"hathiId\":\"004494396\",\"enumeration\":\"\",\"oclc\":[7551718],\"isbn\":[\"0815751613\",\"0815751621\"],\"issn\":[],\"lccn\":[\"81007685\"],\"pubDate\":\"1981\",\"language\":\"eng\",\"bibFormat\":\"BK\"}",
-      "pr": "hathi:vols"
+      "pr": "hathi:vols",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "{\"volumeId\":\"uc1.b4384485\",\"access\":\"deny\",\"rights\":\"ic\",\"hathiId\":\"006230462\",\"enumeration\":\"\",\"oclc\":[7551718],\"isbn\":[\"0815751613\",\"0815751621\"],\"issn\":[],\"lccn\":[\"81007685\"],\"pubDate\":\"1981\",\"language\":\"eng\",\"bibFormat\":\"BK\"}",
-      "pr": "hathi:vols"
+      "pr": "hathi:vols",
+      "ty": null
+    },
+    {
+      "bn": null,
+      "id": "loc:mal",
+      "la": "Schwarzman Building - Main Reading Room 315",
+      "li": null,
+      "pr": "nypl:catalogBibLocation",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "x, 166 p. ;",
-      "pr": "nypl:extent"
+      "pr": "nypl:extent",
+      "ty": null
     },
     {
       "bn": null,
       "id": "genre:b",
       "la": "Bibliographies",
       "li": null,
-      "pr": "nypl:genre"
+      "pr": "nypl:genre",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "HD3616.U47 L37",
-      "pr": "nypl:lccClassification"
+      "pr": "nypl:lccClassification",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "Washington, D.C. :",
-      "pr": "nypl:placeOfPublication"
+      "pr": "nypl:placeOfPublication",
+      "ty": null
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Washington, D.C. : Brookings Institution, c1981.",
+      "pr": "nypl:publicationStatement",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "Brookings Institution,",
-      "pr": "nypl:role-publisher"
+      "pr": "nypl:role-publisher",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "JLE 83-702",
-      "pr": "nypl:shelfMark"
+      "pr": "nypl:shelfMark",
+      "ty": null
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "false",
-      "pr": "nypl:suppressed"
+      "pr": "nypl:suppressed",
+      "ty": "xsd:boolean"
     },
     {
       "bn": null,
       "id": null,
       "la": null,
       "li": "The strategy of social regulation : decision frameworks for policy / Lester B. Lave.",
-      "pr": "nypl:titleDisplay"
+      "pr": "nypl:titleDisplay",
+      "ty": null
     },
     {
       "bn": null,
       "id": "urn:owi:28543156",
       "la": null,
       "li": null,
-      "pr": "nypl:workId"
+      "pr": "nypl:workId",
+      "ty": null
     },
     {
       "bn": null,
       "id": "nypl:Item",
       "la": null,
       "li": null,
-      "pr": "rdfs:type"
-    },
-    {
-      "bn": null,
-      "id": "nypl:Item",
-      "la": null,
-      "li": null,
-      "pr": "rdf:type"
-    },
-    {
-      "bn": null,
-      "id": null,
-      "la": "General Note",
-      "li": "Includes index.",
-      "pr": "skos:note"
-    },
-    {
-      "bn": null,
-      "id": null,
-      "la": "Bibliography, Etc. Note",
-      "li": "Bibliography: p. 139-161.",
-      "pr": "skos:note"
+      "pr": "rdfs:type",
+      "ty": null
     }
   ],
   "item_statements": [
@@ -289,23 +381,26 @@
       "id": "status:a",
       "la": "Available",
       "li": null,
-      "pr": "bf:status"
+      "pr": "bf:status",
+      "ty": null
     },
     {
       "s": "i12603637",
       "bn": null,
-      "id": "urn:barcode:33433057085312",
+      "id": "33433057085312",
       "la": null,
       "li": null,
-      "pr": "dcterms:identifier"
+      "pr": "dcterms:identifier",
+      "ty": "bf:Barcode"
     },
     {
       "s": "i12603637",
       "bn": null,
       "id": "accessMessage:2",
-      "la": "ADV REQUEST",
+      "la": "Request in advance",
       "li": null,
-      "pr": "nypl:accessMessage"
+      "pr": "nypl:accessMessage",
+      "ty": null
     },
     {
       "s": "i12603637",
@@ -313,7 +408,8 @@
       "id": "urn:bnum:b10781594",
       "la": null,
       "li": null,
-      "pr": "nypl:bnum"
+      "pr": "nypl:bnum",
+      "ty": null
     },
     {
       "s": "i12603637",
@@ -321,119 +417,17 @@
       "id": "catalogItemType:55",
       "la": "book, limited circ, MaRLI",
       "li": null,
-      "pr": "nypl:catalogItemType"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:mala",
-      "la": "SASB - Allen Scholar Room",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:map",
-      "la": "SASB - Map Division - Rm 117",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:mal",
-      "la": "SASB - Service Desk Rm 315",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:malw",
-      "la": "SASB - Wertheim Scholar Room",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:maf",
-      "la": "SASB - Dorot Jewish Division Rm 111",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:mab",
-      "la": "SASB - Art & Architecture Rm 300",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:maln",
-      "la": "SASB - Noma Scholar Room",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:mai",
-      "la": "SASB - Periodicals and Microforms Rm 100",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:sc",
-      "la": "Schomburg Center",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:myr",
-      "la": "Performing Arts Research Collections",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:slr",
-      "la": "SIBL - Science Industry and Business",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:malc",
-      "la": "SASB - Cullman Center",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
-    },
-    {
-      "s": "i12603637",
-      "bn": null,
-      "id": "loc:mag",
-      "la": "SASB - Milstein Division Rm 121",
-      "li": null,
-      "pr": "nypl:deliveryLocation"
+      "pr": "nypl:catalogItemType",
+      "ty": null
     },
     {
       "s": "i12603637",
       "bn": null,
       "id": "loc:rc2ma",
-      "la": "OFFSITE - Request in Advance",
+      "la": "Offsite",
       "li": null,
-      "pr": "nypl:holdingLocation"
+      "pr": "nypl:holdingLocation",
+      "ty": null
     },
     {
       "s": "i12603637",
@@ -441,7 +435,8 @@
       "id": "orgs:1000",
       "la": "Stephen A. Schwarzman Building",
       "li": null,
-      "pr": "nypl:owner"
+      "pr": "nypl:owner",
+      "ty": null
     },
     {
       "s": "i12603637",
@@ -449,7 +444,8 @@
       "id": null,
       "la": null,
       "li": "true",
-      "pr": "nypl:requestable"
+      "pr": "nypl:requestable",
+      "ty": "xsd:boolean"
     },
     {
       "s": "i12603637",
@@ -457,7 +453,8 @@
       "id": null,
       "la": null,
       "li": "false",
-      "pr": "nypl:suppressed"
+      "pr": "nypl:suppressed",
+      "ty": "xsd:boolean"
     },
     {
       "s": "i12603637",
@@ -465,7 +462,8 @@
       "id": "bf:Item",
       "la": null,
       "li": null,
-      "pr": "rdf:type"
+      "pr": "rdfs:type",
+      "ty": null
     }
   ]
 }
