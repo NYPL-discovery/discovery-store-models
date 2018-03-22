@@ -33,6 +33,20 @@ describe('Bib model', function () {
     })
   })
 
+  it('should identify identifiers with types', function () {
+    return Bib.byId('b10781594').then((bib) => {
+      expect(bib.statement('dcterms:identifier')).to.be.a('object')
+      expect(bib.statement('dcterms:identifier').object_id).to.equal('10781594')
+      expect(bib.statement('dcterms:identifier').object_type).to.equal('nypl:Bnumber')
+      expect(bib.statements('dcterms:identifier')[1]).to.be.a('object')
+      expect(bib.statements('dcterms:identifier')[1].object_id).to.equal('0815751621')
+      expect(bib.statements('dcterms:identifier')[1].object_type).to.equal('bf:Isbn')
+      expect(bib.statements('dcterms:identifier')[2]).to.be.a('object')
+      expect(bib.statements('dcterms:identifier')[2].object_id).to.equal('81007685')
+      expect(bib.statements('dcterms:identifier')[2].object_type).to.equal('bf:Lccn')
+    })
+  })
+
   it('should identify blank nodes', function () {
     return Bib.byId('b18064236').then((bib) => {
       expect(bib.blankNode('skos:note')).to.be.a('object')
