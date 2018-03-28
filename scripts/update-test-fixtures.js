@@ -4,12 +4,13 @@
  *  Useage:
  *
  *  This will update all fixtures against configured db:
- *    node jobs/update-test-fixtures
+ *    node scripts/update-test-fixtures --profile [profile] --envfile [creds file]
  *
  *  This will update a single fixture by [bib] id:
+ *    node scripts/update-test-fixtures --id [id] --profile [profile] --envfile [creds file]
  *
  *  For example, this updates fixture for 'b10781594' using qa creds
- *    node jobs/update-test-fixtures --id b10781594 --profile nypl-sandbox --envfile config/qa.env
+ *    node scripts/update-test-fixtures --id b10781594 --profile nypl-sandbox --envfile config/qa.env
  */
 
 const path = require('path')

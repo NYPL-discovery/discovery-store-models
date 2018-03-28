@@ -58,4 +58,39 @@ describe('Bib model', function () {
       expect(bib.blankNode('skos:note').objectId('rdfs:type')).to.equal('bf:Note')
     })
   })
+
+  it('should identify Research locations', function () {
+    return Bib.byId('b16369525').then((bib) => {
+      expect(bib.researchLocations()).to.be.a('array')
+      expect(bib.researchLocations()).to.have.lengthOf(1)
+      expect(bib.researchLocations()[0]).to.be.a('object')
+      expect(bib.researchLocations()[0].collectionTypes).to.be.a('array')
+      expect(bib.researchLocations()[0].collectionTypes).to.have.lengthOf(2)
+      expect(bib.researchLocations()[0].collectionTypes).to.have.members(['Research', 'Branch'])
+    })
+  })
+
+  describe('Bib.isResearch', function () {
+    it('should identify b16369525 as research because it has 1 electronic item and a Research location', function () {
+      return Bib.byId('b16369525').then((bib) => {
+        expect(bib.isResearch()).to.equal(true)
+      })
+    })
+  })
+
+  describe('Bib.isPartner', function () {
+    it('should identify non-partner bib', function () {
+      return Bib.byId('b18064236').then((bib) => {
+        expect(bib.isPartner()).to.be.a('boolean')
+        expect(bib.isPartner()).to.equal(false)
+      })
+    })
+
+    it('should identify partner bib', function () {
+      return Bib.byId('cb6240214').then((bib) => {
+        expect(bib.isPartner()).to.be.a('boolean')
+        expect(bib.isPartner()).to.equal(true)
+      })
+    })
+  })
 })

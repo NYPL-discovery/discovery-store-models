@@ -1,0 +1,502 @@
+{
+  "subject_id": "b16369525",
+  "bib_statements": [
+    {
+      "bn": null,
+      "id": "carriertypes:cr",
+      "la": "online resource",
+      "li": null,
+      "pr": "bf:carrier"
+    },
+    {
+      "bn": null,
+      "id": "urn:biblevel:m",
+      "la": "monograph/item",
+      "li": null,
+      "pr": "bf:issuance"
+    },
+    {
+      "bn": null,
+      "id": "mediatypes:c",
+      "la": "computer",
+      "li": null,
+      "pr": "bf:media"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "General Note",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "Title from title screen (viewed on May 8, 2006).",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdf:type"
+        }
+      ],
+      "id": "b16369525#1.0000",
+      "la": null,
+      "li": null,
+      "pr": "bf:note"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "General Note",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "\"February 2005.\"",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdf:type"
+        }
+      ],
+      "id": "b16369525#1.0001",
+      "la": null,
+      "li": null,
+      "pr": "bf:note"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "General Note",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "2005-08-21.",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdf:type"
+        }
+      ],
+      "id": "b16369525#1.0002",
+      "la": null,
+      "li": null,
+      "pr": "bf:note"
+    },
+    {
+      "bn": [
+        {
+          "id": null,
+          "la": null,
+          "li": "Funding Information Note",
+          "pr": "bf:noteType"
+        },
+        {
+          "id": null,
+          "la": null,
+          "li": "Mode of access: Internet from the NREL web site. Address as of 5/8/06: http://www.nrel.gov/docs/fy05osti/37439.pdf; current access available via PURL.",
+          "pr": "rdfs:label"
+        },
+        {
+          "id": "bf:Note",
+          "la": null,
+          "li": null,
+          "pr": "rdf:type"
+        }
+      ],
+      "id": "b16369525#1.0003",
+      "la": null,
+      "li": null,
+      "pr": "bf:note"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Conference paper ; NREL/CP-520-37439",
+      "pr": "bf:seriesStatement"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "2005",
+      "pr": "dbo:dateStart"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "2005",
+      "pr": "dbo:startDate"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Wang, Qi.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "National Renewable Energy Laboratory (U.S.)",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Wang, Q.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Page, M.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Yan, Y.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Wang, T.",
+      "pr": "dc:contributor"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "2005",
+      "pr": "dc:date"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Solar cells -- Materials.",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Chemical vapor deposition.",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "36 MATERIALS SCIENCE",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "14 SOLAR ENERGY",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "CARRIER LIFETIME",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "CHEMICAL VAPOR DEPOSITION",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "DECAY",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "EFFICIENCY",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "HETEROJUNCTIONS",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "MIXTURES",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "OPTIMIZATION",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "PASSIVATION",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "RADICALS",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "SILICON",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "SILICON SOLAR CELLS",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "SOLAR CELLS",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "SURFACE TREATMENTS",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "THICKNESS",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "TRANSMISSION ELECTRON MICROSCOPY",
+      "pr": "dc:subject"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "High throughput approaches to optimization of crystal silicon surface passivation and heterojunction solar cells",
+      "pr": "dcterms:alternative"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "2005",
+      "pr": "dcterms:created"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": "Summary, Etc.",
+      "li": "We use a high-throughput (combinatorial) hot-wire chemical vapor deposition system to passivate the crystal silicon surface and to grow heterojunction silicon solar cells. We study the effectiveness of crystal surface treatments by atomic H or/and NHx radicals, followed by the growth of thin hydrogenated amorphous silicon (a Si:H) films. Treatment and layer properties such as times, thicknesses, and gas mixtures can be continuously graded, creating a two-dimensional sample with each variable varying in one direction. This results in high-throughput optimization of the processes. Effective carrier lifetime is measured by photoconductive decay to evaluate the effectiveness of the surface passivation by surface treatments. The effective carrier lifetime increases from about 5 [micro]s without passivation to about 24 [micro]s with an optimized surface treatment and thickness a-Si:H on single-sided c-Si. Transmission electron microscopy reveals that a-Si:H, a mixed phase, or epitaxial growth of thin-film Si depending on the surface treatment. Improvement in effective carrier lifetime correlates with an immediate a-Si:H growth on c-Si, rather than a mixed phase and epitaxial Si growth. We have obtained an efficiency of 13.4% on a non-textured single-sided heterojunction solar cell on p-type CZ-Si processed with optimized surface treatment.",
+      "pr": "dcterms:description"
+    },
+    {
+      "bn": null,
+      "id": "urn:bnum:16369525",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "bn": null,
+      "id": "urn:lccCoarse:E907-909",
+      "la": null,
+      "li": null,
+      "pr": "dcterms:identifier"
+    },
+    {
+      "bn": null,
+      "id": "lang:eng",
+      "la": "English",
+      "li": null,
+      "pr": "dcterms:language"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "High-throughput approaches to optimization of crystal silicon surface passivation and heterojunction solar cells [electronic resource]",
+      "pr": "dcterms:title"
+    },
+    {
+      "bn": null,
+      "id": "resourcetypes:txt",
+      "la": "Text",
+      "li": null,
+      "pr": "dcterms:type"
+    },
+    {
+      "bn": null,
+      "id": "loc:ia",
+      "la": "Electronic Material for Adults",
+      "li": null,
+      "pr": "nypl:catalogBibLocation"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "4 p. : digital, PDF file.",
+      "pr": "nypl:extent"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Golden, Colo. :",
+      "pr": "nypl:placeOfPublication"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "Golden, Colo. : National Renewable Energy Laboratory, [2005]",
+      "pr": "nypl:publicationStatement"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "National Renewable Energy Laboratory,",
+      "pr": "nypl:role-publisher"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "GPO Internet E 9.17:NREL/CP-520-37439",
+      "pr": "nypl:shelfMark"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "High-throughput approaches to optimization of crystal silicon surface passivation and heterojunction solar cells [electronic resource] / Q. Wang ... [et al.].",
+      "pr": "nypl:titleDisplay"
+    },
+    {
+      "bn": null,
+      "id": "nypl:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdfs:type"
+    }
+  ],
+  "item_statements": [
+    {
+      "s": "i16369525-e",
+      "bn": null,
+      "id": null,
+      "la": "application/pdf",
+      "li": "http://www.osti.gov/servlets/purl/15016491-ZrQ6NY/native/",
+      "pr": "bf:electronicLocator"
+    },
+    {
+      "s": "i16369525-e",
+      "bn": null,
+      "id": "urn:bnum:b16369525",
+      "la": null,
+      "li": null,
+      "pr": "nypl:bnum"
+    },
+    {
+      "s": "i16369525-e",
+      "bn": null,
+      "id": null,
+      "la": "application/pdf",
+      "li": "http://www.osti.gov/servlets/purl/15016491-ZrQ6NY/native/",
+      "pr": "nypl:electronicLocator"
+    },
+    {
+      "s": "i16369525-e",
+      "bn": null,
+      "id": "urn:itemtype:research",
+      "la": null,
+      "li": null,
+      "pr": "nypl:itemType"
+    },
+    {
+      "s": "i16369525-e",
+      "bn": null,
+      "id": null,
+      "la": null,
+      "li": "false",
+      "pr": "nypl:suppressed"
+    },
+    {
+      "s": "i16369525-e",
+      "bn": null,
+      "id": "bf:Item",
+      "la": null,
+      "li": null,
+      "pr": "rdfs:type"
+    }
+  ]
+}
