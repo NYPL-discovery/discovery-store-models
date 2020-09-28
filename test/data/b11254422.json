@@ -1,0 +1,1042 @@
+{
+    "subject_id": "b11254422",
+    "bib_statements": [
+      {
+        "bn": null,
+        "id": "carriertypes:nc",
+        "la": "volume",
+        "li": null,
+        "pr": "bf:carrier",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "30 cm.",
+        "pr": "bf:dimensions",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": "urn:biblevel:s",
+        "la": "serial",
+        "li": null,
+        "pr": "bf:issuance",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": "mediatypes:n",
+        "la": "unmediated",
+        "li": null,
+        "pr": "bf:media",
+        "ty": null
+      },
+      {
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": "Note",
+            "pr": "bf:noteType",
+            "ty": null
+          },
+          {
+            "id": "bf:Note",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Cover title.",
+            "pr": "rdfs:label",
+            "ty": null
+          }
+        ],
+        "id": "b11254422#1.0000",
+        "la": null,
+        "li": null,
+        "pr": "bf:note",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "9999",
+        "pr": "dbo:endDate",
+        "ty": "xsd:integer"
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "1981",
+        "pr": "dbo:startDate",
+        "ty": "xsd:integer"
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "1981",
+        "pr": "dc:date",
+        "ty": "xsd:integer"
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "Photography -- History -- Periodicals.",
+        "pr": "dc:subject",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "Photography, Artistic -- Periodicals.",
+        "pr": "dc:subject",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "Fotogeschichte",
+        "pr": "dcterms:alternative",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "Fotogeschichte",
+        "pr": "dcterms:alternative",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "1981",
+        "pr": "dcterms:created",
+        "ty": "xsd:integer"
+      },
+      {
+        "bn": null,
+        "id": "11254422",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:identifier",
+        "ty": "nypl:Bnumber"
+      },
+      {
+        "bn": null,
+        "id": "0720-5260",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:identifier",
+        "ty": "bf:Issn"
+      },
+      {
+        "bn": null,
+        "id": "82645711",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:identifier",
+        "ty": "bf:Lccn"
+      },
+      {
+        "bn": null,
+        "id": "(WaOLN)nyp1262092",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:identifier",
+        "ty": "bf:Identifier"
+      },
+      {
+        "bn": null,
+        "id": "lang:ger",
+        "la": "German",
+        "li": null,
+        "pr": "dcterms:language",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "Fotogeschichte.",
+        "pr": "dcterms:title",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": "resourcetypes:txt",
+        "la": "Text",
+        "li": null,
+        "pr": "dcterms:type",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": "loc:mal",
+        "la": "Schwarzman Building - Main Reading Room 315",
+        "li": null,
+        "pr": "nypl:catalogBibLocation",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": "loc:mas",
+        "la": "Schwarzman Building - Photography Collection Room 308",
+        "li": null,
+        "pr": "nypl:catalogBibLocation",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "v. : ill. ;",
+        "pr": "nypl:extent",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "TR15 .F67",
+        "pr": "nypl:lccClassification",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "Frankfurt am Main :",
+        "pr": "nypl:placeOfPublication",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "Frankfurt am Main : T. Starl, 1981-",
+        "pr": "nypl:publicationStatement",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "T. Starl,",
+        "pr": "nypl:role-publisher",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "Jahrg. 1, Heft 1-",
+        "pr": "nypl:serialPublicationDates",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "MFWA+ 89-1277",
+        "pr": "nypl:shelfMark",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "false",
+        "pr": "nypl:suppressed",
+        "ty": "xsd:boolean"
+      },
+      {
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "Fotogeschichte.",
+        "pr": "nypl:titleDisplay",
+        "ty": null
+      },
+      {
+        "bn": null,
+        "id": "nypl:Collection",
+        "la": null,
+        "li": null,
+        "pr": "rdfs:type",
+        "ty": null
+      }
+    ],
+    "item_statements": [],
+    "holding_statements": [
+      {
+        "s": "h1000993",
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "MFWA+ 89-1277",
+        "pr": "bf:physicalLocation",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "27(1988)-40:156(2020)-",
+        "pr": "dcterms:coverage",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "no. 3840 (2018/2020)",
+        "pr": "dcterms:coverage",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "{\"PRINT\"}",
+        "pr": "dcterms:format",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "15",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Expected",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "40:157 (2020--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0000",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "14",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "40:156 (2020--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0001",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "9",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "39:151 (2019--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0002",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "13",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "40:155 (2020--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0003",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "12",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "39:154 (2019--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0004",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "11",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "39:153 (2019--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0005",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "10",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "39:152 (2019--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0006",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "7",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "38:149 (2018--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0007",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "6",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "38:148 (2018--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0008",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "5",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "38:147 (2018--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0009",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "4",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "37:146 (2017--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0010",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "3",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "37:145 (2017--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0011",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "2",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "37:144 (2017--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0012",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "1",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "37:143 (2017--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0013",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": [
+          {
+            "id": null,
+            "la": null,
+            "li": null,
+            "pr": "bf:count",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "8",
+            "pr": "bf:part",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "Arrived",
+            "pr": "bf:status",
+            "ty": null
+          },
+          {
+            "id": null,
+            "la": null,
+            "li": "38:150 (2018--)",
+            "pr": "dcterms:coverage",
+            "ty": null
+          },
+          {
+            "id": "nypl:CheckInBox",
+            "la": null,
+            "li": null,
+            "pr": "rdf:type",
+            "ty": null
+          }
+        ],
+        "id": "h1000993#1.0014",
+        "la": null,
+        "li": null,
+        "pr": "dcterms:hasPart",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": null,
+        "id": "urn:bnum:b11254422",
+        "la": null,
+        "li": null,
+        "pr": "nypl:bnum",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": null,
+        "id": "loc:rc2ma",
+        "la": "Offsite",
+        "li": null,
+        "pr": "nypl:holdingLocation",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "MFWA+ 89-1277",
+        "pr": "nypl:shelfMark",
+        "ty": null
+      },
+      {
+        "s": "h1000993",
+        "bn": null,
+        "id": null,
+        "la": null,
+        "li": "false",
+        "pr": "nypl:suppressed",
+        "ty": "xsd:boolean"
+      },
+      {
+        "s": "h1000993",
+        "bn": null,
+        "id": "nypl:Holding",
+        "la": null,
+        "li": null,
+        "pr": "rdfs:type",
+        "ty": null
+      }
+    ]
+  }
