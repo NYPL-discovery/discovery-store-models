@@ -6,6 +6,12 @@ This repo centralizes access to the discovery-store, a Postgres database organiz
 
 # Usage
 
+Include this module as a dependency in your `package.json` as follows:
+
+```
+"discovery-store-models": "git+https://github.com/NYPL-discovery/discovery-store-models.git#v1.3.1",
+```
+
 Initialize as follows:
 
 ```
@@ -58,6 +64,16 @@ All models (bibs, items, and blank-nodes) implement the following baseline api:
 The following environmental variables are examined:
 
  * `DB_APPLICATION_NAME`: Tags db connections with the given string (useful for identifying connected clients on the db side)
+
+# Contributing
+
+This repo has a single primary branch: `main`. The procedure for promoting code is:
+
+ - Create feature branch off `main`
+ - Compute next logical version and update `README.md`, `package.json`, etc.
+ - Create PR against `main`
+ - After review, merge
+ - Git tag `main` with new version number
 
 # Future Work
 
