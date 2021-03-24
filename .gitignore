@@ -1,7 +1,7 @@
 # Secret config:
 config/development.env
 config/qa.env
-config/production.json
+config/production.env
 
 # Dependency directory
 node_modules
