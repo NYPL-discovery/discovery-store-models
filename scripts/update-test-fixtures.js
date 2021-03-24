@@ -15,7 +15,6 @@
 
 const path = require('path')
 const fs = require('fs')
-// const aws = require('aws-sdk')
 const dotenv = require('dotenv')
 
 const DiscoveryModels = require('../index')
@@ -30,7 +29,6 @@ function bibFixturePath (id) {
  */
 function updateBib (id) {
   return db.resources.bib(id).then((rawBib) => {
-  // return DiscoveryModels.Bib.byId(id).then((bib) => {
     fs.writeFileSync(bibFixturePath(id), JSON.stringify(rawBib, null, 2))
     return Promise.resolve(path)
   })
@@ -53,7 +51,7 @@ function updateAllBibs () {
   })
 }
 
-const argv = require('optimist').argv
+const argv = require('minimist')(process.argv.slice(2))
 
 // Require --envfile [ENVFILE] so that we have creds to connect to the deebee
 if (!argv.envfile) throw new Error('--envfile config/[environment].env is a required flag')
