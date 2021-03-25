@@ -84,4 +84,46 @@ describe('Item model', function () {
       })
     })
   })
+
+  describe('Partner items', function () {
+    it('should handle partner bib with single item', function () {
+      return Bib.byId('pb1941480').then((bib) => {
+        expect(bib.items()).to.be.a('array')
+        expect(bib.items().length).to.equal(1)
+
+        expect(bib.items()[0]).to.be.a('object')
+        expect(bib.items()[0].isResearch()).to.equal(true)
+        expect(bib.items()[0].isElectronic()).to.equal(false)
+        expect(bib.items()[0].statement('rdfs:type').object_id).to.equal('bf:Item')
+        expect(bib.items()[0].statement('nypl:suppressed').object_literal).to.equal('false')
+        expect(bib.items()[0].statement('nypl:shelfMark').object_literal).to.equal('8176.612')
+        expect(bib.items()[0].statement('nypl:owner').object_id).to.equal('orgs:0003')
+        expect(bib.items()[0].statement('nypl:owner').object_label).to.equal('Princeton University Library')
+        expect(bib.items()[0].statement('nypl:accessMessage').object_id).to.equal('accessMessage:1')
+        expect(bib.items()[0].statement('dcterms:identifier').object_id).to.equal('32101058934488')
+      })
+    })
+
+    it('should handle partner bib with 3 items', function () {
+      return Bib.byId('pb2833949').then((bib) => {
+        expect(bib.items()).to.be.a('array')
+        expect(bib.items().length).to.equal(3)
+
+        expect(bib.items()[0]).to.be.a('object')
+        expect(bib.items()[0].statement('nypl:shelfMark').object_literal).to.equal('2559.1833')
+        expect(bib.items()[0].statement('dcterms:identifier').object_id).to.equal('urn:barcode:32101056291717')
+
+        expect(bib.items()[1]).to.be.a('object')
+        expect(bib.items()[1].statement('nypl:shelfMark').object_literal).to.equal('2559.1833')
+        // This one is a more recently updated record, so has entity- rather
+        // than urn-style barcode statement (both should be supported):
+        expect(bib.items()[1].statement('dcterms:identifier').object_id).to.equal('32101056291709')
+        expect(bib.items()[1].statement('dcterms:identifier').object_type).to.equal('bf:Barcode')
+
+        expect(bib.items()[2]).to.be.a('object')
+        expect(bib.items()[2].statement('nypl:shelfMark').object_literal).to.equal('2559.1833')
+        expect(bib.items()[2].statement('dcterms:identifier').object_id).to.equal('urn:barcode:32101055636631')
+      })
+    })
+  })
 })
