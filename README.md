@@ -74,7 +74,7 @@ The following environmental variables are examined:
 Decompose a DiscoveryStore id using `NyplSourceMapper`:
 
 ```
-DiscoveryModels = require('discovery-store-models')
+const NyplSourceMapper = require('discovery-store-models/lib/nypl-source-mapper')
 const { nyplSource, id, type } = NyplSourceMapper.instance()
   .splitIdentifier('b12082323')
 // `nyplSource` === 'sierra-nypl'
