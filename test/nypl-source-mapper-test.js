@@ -11,6 +11,11 @@ describe('NyplSourceMapper', function () {
   })
 
   describe('splitIdentifier', function () {
+    it('should reject unrecognized identifier', function () {
+      const inst = NyplSourceMapper.instance()
+      expect(inst.splitIdentifier('fladeedle')).to.be.a('null')
+    })
+
     it('should split sierra-nypl bib identifier', function () {
       const inst = NyplSourceMapper.instance()
       expect(inst.splitIdentifier('b12082323')).to.be.a('object')
