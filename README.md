@@ -4,6 +4,10 @@
 
 This repo centralizes access to the discovery-store, a Postgres database organized like a triple store storing all of the statements we've collected about bibliographic records ("bibs"), their physical/electronic children ("items"), and other connected entities.
 
+### Current Version
+
+v1.3.2
+
 # Usage
 
 Include this module as a dependency in your `package.json` as follows:
@@ -64,6 +68,19 @@ All models (bibs, items, and blank-nodes) implement the following baseline api:
 The following environmental variables are examined:
 
  * `DB_APPLICATION_NAME`: Tags db connections with the given string (useful for identifying connected clients on the db side)
+
+## Utils
+
+Decompose a DiscoveryStore id using `NyplSourceMapper`:
+
+```
+const NyplSourceMapper = require('discovery-store-models/lib/nypl-source-mapper')
+const { nyplSource, id, type } = NyplSourceMapper.instance()
+  .splitIdentifier('b12082323')
+// `nyplSource` === 'sierra-nypl'
+// `id` === '12082323'
+// `type` === 'bib'
+```
 
 # Contributing
 
