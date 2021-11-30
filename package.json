@@ -1,6 +1,6 @@
 {
   "name": "discovery-store-models",
-  "version": "2.0.0",
+  "version": "1.4.0",
   "description": "A collection of model classes for interacting with NYPL Discovery Store",
   "main": "index.js",
   "scripts": {
