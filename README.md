@@ -6,14 +6,14 @@ This repo centralizes access to the discovery-store, a Postgres database organiz
 
 ### Current Version
 
-v1.3.2
+v2.0.0
 
 # Usage
 
 Include this module as a dependency in your `package.json` as follows:
 
 ```
-"discovery-store-models": "git+https://github.com/NYPL-discovery/discovery-store-models.git#v1.3.1",
+"discovery-store-models": "git+https://github.com/NYPL-discovery/discovery-store-models.git#v2.0.0",
 ```
 
 Initialize as follows:
