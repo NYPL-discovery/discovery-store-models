@@ -1,6 +1,6 @@
 {
   "name": "discovery-store-models",
-  "version": "1.3.2",
+  "version": "1.4.0",
   "description": "A collection of model classes for interacting with NYPL Discovery Store",
   "main": "index.js",
   "scripts": {
@@ -17,16 +17,16 @@
   },
   "homepage": "https://github.com/NYPL-discovery/discovery-store-models#readme",
   "dependencies": {
-    "@nypl/nypl-core-objects": "^1.3.2",
+    "@nypl/nypl-core-objects": "^2.0.0",
     "pg-promise": "^7.4.0",
     "winston": "^2.4.0"
   },
   "devDependencies": {
-    "aws-sdk": "^2.190.0",
+    "aws-sdk": "^2.1039.0",
     "chai": "^4.1.2",
     "dotenv": "^5.0.0",
-    "mocha": "^8.3.2",
     "minimist": "^1.2.5",
+    "mocha": "^8.3.2",
     "pg-query-stream": "^1.1.1",
     "sinon": "^4.2.0",
     "standard": "^10.0.3"
