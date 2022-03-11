@@ -93,4 +93,20 @@ describe('Bib model', function () {
       })
     })
   })
+
+  describe('index properties', () => {
+    it('should load index when available', function () {
+      return Bib.byId('b17655587-with-indexes').then((bib) => {
+        expect(bib.statement('bf:dimensions')).to.be.a('object')
+        expect(bib.statement('bf:dimensions').index).to.eq(0)
+
+        expect(bib.statements('dc:subject')).to.be.a('array')
+        expect(bib.statements('dc:subject')[0]).to.be.a('object')
+        expect(bib.statements('dc:subject')[0].index).to.eq(0)
+        expect(bib.statements('dc:subject')).to.be.a('array')
+        expect(bib.statements('dc:subject')[1]).to.be.a('object')
+        expect(bib.statements('dc:subject')[1].index).to.eq(1)
+      })
+    })
+  })
 })
