@@ -18,6 +18,7 @@
   "homepage": "https://github.com/NYPL-discovery/discovery-store-models#readme",
   "dependencies": {
     "@nypl/nypl-core-objects": "^2.0.0",
+    "pg-int8": "^1.0.1",
     "pg-promise": "^7.4.0",
     "winston": "^2.4.0"
   },
