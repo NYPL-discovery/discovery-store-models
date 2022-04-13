@@ -1,6 +1,6 @@
 {
   "name": "discovery-store-models",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "A collection of model classes for interacting with NYPL Discovery Store",
   "main": "index.js",
   "scripts": {
@@ -27,7 +27,7 @@
     "dotenv": "^5.0.0",
     "minimist": "^1.2.5",
     "mocha": "^8.3.2",
-    "pg-query-stream": "^1.1.1",
+    "pg-query-stream": "^1.1.2",
     "sinon": "^4.2.0",
     "standard": "^10.0.3"
   },
