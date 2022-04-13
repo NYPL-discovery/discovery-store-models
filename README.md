@@ -6,7 +6,7 @@ This repo centralizes access to the discovery-store, a Postgres database organiz
 
 ### Current Version
 
-v1.4.2
+v1.4.3
 
 # Usage
 
