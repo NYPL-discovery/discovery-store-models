@@ -1,3 +1,7 @@
+# Archived 10/27/2023
+
+This app's role has been made redundant with the retirement of the Discovery Hybrid Indexer. The new indexer can be found [here](https://github.com/NYPL/research-catalog-indexer).
+
 # Discovery Store Models
 
 ## Purpose
